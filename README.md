@@ -10,11 +10,14 @@ First, I got the data of the respective columns, turning the dataframe into a li
 
 The initial results I was looking into were the difference in R^2 values between each respective rating vs. the expected value for the value of the car and the R^2 values between all the other ratings averaged vs. the expected value for the value of the car. At first glance, it seems like customers valued reliability and exterior rating the most when considering value. However, since the R^2 values were so close to each other, it can be concluded that on average, a customer will value each rating equally when considering the value of a car compared to its price. 
 
+<img width="370" alt="Screen Shot 2022-08-25 at 10 08 39 AM" src="https://user-images.githubusercontent.com/98008317/186702628-6585d85b-e5a7-4268-829c-1ad5df3fe069.png">
+
 
 ***Sources I used***
 
 https://matplotlib.org/stable/index.html - graphing
 
-https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/coefficient-of-determination-r-squared.html#:~:text=%C2%AFy - R^2 values
+https://www.ncl.ac.uk/webt![Uploading Screen Shot 2022-08-25 at 10.08.39 AM.png…]()
+emplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/coefficient-of-determination-r-squared.html#:~:text=%C2%AFy - R^2 values
 
 https://pandas.pydata.org/docs/reference/index.html - pandas
